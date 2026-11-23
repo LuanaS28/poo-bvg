@@ -23,3 +23,4 @@ std::cout<<"\n\n*-*-*-*-Lista de contatos B2B*-*-*-*-"<<std::endl;
 
     return 0;
 }
+
